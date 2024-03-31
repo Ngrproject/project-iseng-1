@@ -31,7 +31,7 @@ options={{preset: "fireworks"}}
   </span>
 <div className="z-50 text-white font-bold text-2xl">
 <Countdown date={Date.now() + timeleft()} onComplete={()=> setNewYearMessage(
-  ["Selamat", "Tahun Baru", "2024"])}
+  ["Selamat", "Tahun Baru", "2025"])}
 />
 
 </div>
