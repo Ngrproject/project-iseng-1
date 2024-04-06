@@ -19,7 +19,7 @@ elif nj > 46:
     jr= ("D")
 else: jr= ("E")
 print("==========================================================")
-print("Memperoleh nilai prestasi sebagai berikut:")
+print("Memperoleh nilai prestasi sebagai berikut:\n")
 print("Nama Siswa\t\t\t:" ,Nama)
 print("Nilai Keaktifan x 20%\t\t:",nk)
 print("Nilai Tugas x 30%\t\t:",nt)
